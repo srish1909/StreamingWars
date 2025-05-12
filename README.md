@@ -1,10 +1,8 @@
-# 📊 Streaming Wars: Visualizing Competitive Trends in the OTT Industry
+# Streaming Wars: Visualizing Competitive Trends in the OTT Industry
 
 This project explores the evolving landscape of major streaming platforms — **Netflix**, **Prime Video**, **Hulu**, and **Disney+** — by analyzing trends in content volume, genre specialization, and critical reception from **2000 to 2021**. Through a set of interactive visualizations, we uncover how each platform competes in terms of quantity, quality, and strategic content curation.
 
----
-
-## 📌 Objectives
+## Objectives
 
 - Analyze how the content volume has changed over time across platforms.
 - Identify platform-specific genre strengths using Rotten Tomatoes ratings.
@@ -12,16 +10,12 @@ This project explores the evolving landscape of major streaming platforms — **
 - Explore internal genre distribution per platform.
 - Deliver interactive, filterable visualizations for deeper insights.
 
-
-
 ## Dataset
 
 - **Source**: [Kaggle Dataset - Movies on Netflix, Prime Video, Hulu, and Disney+](https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney)
 - **Metadata Enrichment**: Genres and other missing fields were filled using the [TMDb API](https://developer.themoviedb.org/docs).
 - **Updated dataset avaiable with the file name Movies_Full_With_Genres**
 - **Coverage**: Titles released between **2000–2021**
-
-
 
 ## Tools and Technologies
 
